@@ -1,0 +1,4 @@
+chinese    82.6
+math       81.0
+english    81.8
+dtype: float64
